@@ -91,6 +91,9 @@
           }
         ],
         "responses": {
+          "202": {
+            "description": "Accepted"
+          },
           "200": {
             "description": "Contains additional information like job Id",
             "schema": {
